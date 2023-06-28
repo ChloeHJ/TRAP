@@ -6,7 +6,7 @@ The dash web application can be found here: http://35.176.114.129:8050/
 
 All required data, models and supplementary notebooks are stored in: https://drive.google.com/drive/folders/15A2P5xP2c-q48vVGPRB7h7uHEMycPYoX?usp=drive_link 
 
-We provide gbm_example_test_data.csv as an example test data. The input data should have the same structure as the example dataset, and contain peptides having 9-10 amino acids in length. Minimal requirments for the input data are Peptide sequence and -log2(NetMHCpan rank score). Please select the pathogenic or self-antigen (cancer, autoantigens, etc.) model and insert your list of peptides on the application. The model may take 5-10 minutes to generate the output. We highly recommend the users to have <100 test peptides at a time due to limited server space. 
+We provide gbm_example_test_data.csv as an example test data. The input data should have the same structure as the example dataset, and contain peptides having 9-10 amino acids in length. Minimal requirments for the input data are Peptide sequence and -log2(NetMHCpan rank score). Please select the pathogenic or self-antigen (cancer, autoantigens, etc.) model and insert your list of peptides on the application. The model may take 5-10 minutes to generate the output. We highly recommend the users to have <100 test peptides at a time due to limited server space. The "Tutorial for TRAP web application" document contains a detailed tutorial on how to use the web application.
 
 Interpretation of the result: 
 * TRAP: Immunogenicity (TRAP > 0.5: Positive, TRAP < 0.5: Negative)
