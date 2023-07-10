@@ -25,7 +25,8 @@ The data/ includes training data for these modules:
 Please cite TRAP as following: Lee CH, Huh J, Buckley PR, Jang M, Pinho MP, Fernandes RA, et al. A robust deep learning platform to predict CD8+ T-cell epitopes. bioRxiv; 2022. p. 2022.12.29.522182. Available from: https://www.biorxiv.org/content/10.1101/2022.12.29.522182v1
 
 
-LICENSE
+
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
