@@ -23,3 +23,13 @@ The data/ includes training data for these modules:
 * Autoantigen_5data.csv are autoantigen and cancer-associated antigens gathered from 5 databases. hsProtemeDF.RData is reference human proteome sequence for RSAT calculation. Autoantigen_peptide_vector.RData and iedb_dissimilar_proteome_blosum62.RData are processed files from RSAT calculations. 
 
 Please cite TRAP as following: Lee CH, Huh J, Buckley PR, Jang M, Pinho MP, Fernandes RA, et al. A robust deep learning platform to predict CD8+ T-cell epitopes. bioRxiv; 2022. p. 2022.12.29.522182. Available from: https://www.biorxiv.org/content/10.1101/2022.12.29.522182v1
+
+
+LICENSE
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
