@@ -1,4 +1,4 @@
-# TRAP: A robust deep learning platform to make CD8+ T-cell epitope prediction
+# TRAP: A robust deep learning workflow to predict CD8+ T-cell epitopes
 
 TRAP allows for the robust prediction of CD8+ T-cell epitopes from MHC-I ligands. It employs a deep learning-based platform for predicting immunogenicity and a DecisionTree classifier to estimate the degree of correctness.
 
