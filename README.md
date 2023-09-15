@@ -22,8 +22,9 @@ The data/ includes training data for these modules:
 * ood_dropout_pathogenic.csv and ood_dropout_selfantigen.csv are training data for OOD MCDropout-based OOD classifier
 * Autoantigen_5data.csv are autoantigen and cancer-associated antigens gathered from 5 databases. hsProtemeDF.RData is reference human proteome sequence for RSAT calculation. Autoantigen_peptide_vector.RData and iedb_dissimilar_proteome_blosum62.RData are processed files from RSAT calculations. 
 
-Please cite TRAP as following: Lee CH, Huh J, Buckley PR, Jang M, Pinho MP, Fernandes RA, et al. A robust deep learning platform to predict CD8+ T-cell epitopes. bioRxiv; 2022. p. 2022.12.29.522182. Available from: https://www.biorxiv.org/content/10.1101/2022.12.29.522182v1
+Please cite TRAP as following: Lee, C. H., Huh, J., Buckley, P. R., Jang, M., Pinho, M. P., Fernandes, R. A., Antanaviciute, A., Simmons, A., & Koohy, H. (2023). A robust deep learning workflow to predict CD8 + T-cell epitopes. Genome Medicine, 15(1), 70. https://doi.org/10.1186/s13073-023-01225-z
 
+Available from: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-023-01225-z
 
 
 
